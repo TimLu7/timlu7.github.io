@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "An home page shows my skills, courses, projects, hobbies.\r ## Class Link \r https://johnguerra.co/classes/webDevelopment_fall_2022/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimLu7/CS5610.git"
+  },
+  "author": "Tianyu Lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimLu7/CS5610/issues"
+  },
+  "homepage": "https://github.com/TimLu7/CS5610#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-react": "^7.31.8",
+    "prettier": "1.19.1"
+  }
+}

@@ -1,3 +1,5 @@
+import bootstrap from "bootstrap"
+
 $(document).ready(function(){
     $(window).scroll(function(){
         if(this.scrollY > 20){
@@ -14,3 +16,15 @@ $(document).ready(function(){
     
 });
 
+var myCarousel = document.querySelector('#carouselExample')
+var carousel = new bootstrap.Carousel(myCarousel, {
+  interval: 1000,
+  wrap: false
+})
+
+myCarousel.addEventListener('slide.bs.carousel', function (e) {
+    if(e.keyCode == '37')
+        direction: left
+    else if(e.keyCode == '39')
+        direction: right
+})

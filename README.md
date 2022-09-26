@@ -1,8 +1,23 @@
 # Project 1: Your personal home page 
 
-## Description
+## Project Objective 
 
-An home page shows your your skills, courses, projects, hobbies
+An home page shows my skills, courses, projects, hobbies.
+## Class Link 
+https://johnguerra.co/classes/webDevelopment_fall_2022/
+
+
+## Screenshot 
+
+
+1. main page
+
+![screen shot1](images/snip1.PNG)
+
+
+2. photo page
+
+![screen shot2](images/snip2.png)
 
 ## Requirements
 
@@ -11,25 +26,6 @@ An home page shows your your skills, courses, projects, hobbies
  3. At least two pages
  4. At least one JS (Vanilla) feature not copied
  5. Can use templates
-
-## Getting Started
-
-### Dependencies
-
-* Web browser (ex. Chorme)
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-### Executing program
-
-```
-```
-
 ## Author
 
 Tianyu Lu

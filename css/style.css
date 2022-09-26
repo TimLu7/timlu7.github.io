@@ -11,7 +11,7 @@ html{
 }
 
 
-.navbar{
+.navbar1{
     position: fixed;
     background-color: transparent;
     width: 100%;
@@ -27,7 +27,7 @@ html{
     padding: 0 40px;
 }
 
-.navbar .inner-width{
+.navbar1 .inner-width{
     max-width: 1800px;
     display: flex;
     align-items: center;
@@ -88,8 +88,7 @@ html{
 .sticky .navbar-menu a{
     color: #111;
 }
-
-.sticky .menu-togger span{
+.sticky .menu-toggler span{
     background-color: #111;
 } 
 
