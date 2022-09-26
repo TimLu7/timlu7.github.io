@@ -1,5 +1,3 @@
-import bootstrap from "bootstrap"
-
 $(document).ready(function(){
     $(window).scroll(function(){
         if(this.scrollY > 20){

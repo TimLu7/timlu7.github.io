@@ -160,7 +160,7 @@ html{
     color:#fff;
 }
 
-.buttons{
+.download{
     width: 100px;
     background-color: transparent;
     font-size: 16px;
@@ -173,7 +173,7 @@ html{
     height: 100%;
 }
 
-.buttons a{
+.download a{
 
     display: inline-block;
     margin: 15px 0;
@@ -186,7 +186,7 @@ html{
     transition: .2s linear;
 }
 
-.buttons a:hover{
+.download a:hover{
     background-color:  #b38d83;
     color: #fff;
 }
