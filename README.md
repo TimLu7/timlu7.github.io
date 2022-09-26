@@ -12,7 +12,7 @@ https://johnguerra.co/classes/webDevelopment_fall_2022/
 
 1. main page
 
-![screen shot1](images/snip1.PNG)
+![screen shot1](images/snip1.png)
 
 
 2. photo page
